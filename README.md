@@ -28,9 +28,34 @@ Output: A sacrifice given by the King.
 - An Ollama API key ([Get one here](https://ollama.com/))
 - 5GB free disk space
 
+### Ollama Model Setup (Required)
+
+This project uses Ollama Cloud for LLM-based translation.
+Before running the system, you must download and enable the required model.
+
+1) Step 1: Install Ollama
+
+Download and install Ollama from:
+https://ollama.com
+
+Verify installation:
+
+```bash 
+ollama --version
+```
+
+2) Step 2: Pull the Required Model
+
+Run the following command to download the model:
+
+```bash 
+ollama pull qwen3-vl:235b-instruct-cloud
+```
+
 ### Installation
 
 1. **Clone the repository:**
+
 ```bash
 git clone https://github.com/yourusername/egyptian-rag-translator.git
 cd egyptian-rag-translator
