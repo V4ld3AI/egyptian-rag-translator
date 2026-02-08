@@ -1213,4 +1213,4 @@ COLUMNS_TO_DROP = ["hieroglyphs", "dateNotBefore", "dateNotAfter"]
 
 **Last Updated:** February 2025  
 **Version:** 1.0.0  
-**Maintainer:** [Your Name]
+**Maintainer:** [Yomna Waleed Elsayed]
